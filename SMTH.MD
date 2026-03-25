@@ -1,7 +1,7 @@
 Last updated: 25.mar.2026
 
 
-> ## _Shredders in build a boat consist of a few main parts:__
+> ## __Shredders in build a boat consist of a few main parts:__
 >
 > - The mouse guidance system and piston organisation.
 > - The propulsion system and extra (fling, etc).
