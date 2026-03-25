@@ -1,6 +1,6 @@
 Last updated: 25.mar.2026
 
-## __Intro__
+## __MAKE A MODERN SHREDDER!__
 
 
 > ## __Shredders in build a boat consist of a few main parts:__
@@ -8,7 +8,6 @@ Last updated: 25.mar.2026
 > - The mouse guidance system and piston organisation.
 > - The propulsion system and extra op tech (fling, etc).
 > - The blades and design.
-> - Setting up the shredder.
 
 > ## __The mouse guidance system.__ 
 >
@@ -35,7 +34,15 @@ Last updated: 25.mar.2026
 
 > ## __Blades and design.__ 
 >
-> - Contrary to popular belief, alot of 
+> - Contrary to popular belief, alot of top shredders DONT use spike spam.
+> - The design of your blades is really important, as people utilise fling and good spike placement to win fights.
+> - There are different types of shredder designs (though all follow the same principles as above)
+>
+> - - ANO Shredders (Shredders that point toward the mouse, with a core and blade)
+> - - Omni Shredders (Shredders that have a core in the middle and have 6 blades)
+> - - Misc Shredders (Other designs)
+>
+> The key is to achieve the balance between shredder design, aesthetic, technology and pvp ability.
 
 ** **
 
@@ -46,7 +53,7 @@ Last updated: 25.mar.2026
 ** **
 
 
-## __How do make good looking shredders?__
+## __FAQ__
 
 
 > If you need any help or want to get the server helping you on your shredder / tech that your working on, see: https://discord.com/channels/1463979497757085708/1480179189742174392
