@@ -1,4 +1,7 @@
 Last updated: 25.mar.2026
+Please note, this is a simple OVERVIEW on how shredder technology works.
+Ask around if you want to find out more!
+
 
 ## __MAKE A MODERN SHREDDER!__
 
@@ -48,6 +51,15 @@ Last updated: 25.mar.2026
 
 ## __How does this tech work and how did you make it?__
 
+> Most of this technology is leaked from top pvp factions in babft.
+> Some op tech we've encountered (or made ourselves) include: literally invincible parts, re-animating shredders mid-air, insta-kill blades.
+> This tech doesn't come around from fooling around in the game, it requires in-depth knowledge of the roblox physics engine and how to abuse it.
+> Most technology originally comes from plane crazy, a sandbox game very similar to BABFT.
+> CSA is BSA's plane crazy version (Collective Shredder Alliance), and they make tech very similar to us.
+> 
+>
+> If you don't know about techy terms in BSA, that's okay. We love teaching people and our community is epic!
+> Simply ask around and find out :D
 
 
 ** **
@@ -57,6 +69,10 @@ Last updated: 25.mar.2026
 
 
 > If you need any help or want to get the server helping you on your shredder / tech that your working on, see: https://discord.com/channels/1463979497757085708/1480179189742174392
+> Building good looking shredders comes naturally from playing the game.
+> If you want to learn about tech -  get involved in day events, ask around, post in builds and generally try to interact with others.
+> The S++ community is the most experienced in all of BABFT, with insane tech that we constantly share.
+> The builds channel is the best place to understand how tech works and to get inspiration for your next shredder.
 
 ** **
 
