@@ -8,6 +8,12 @@ Last updated: 25.mar.2026
 > - The propulsion system and extra (fling, etc).
 > - The blades and design.
 
+> ## __The mouse guidance system.__ 
+>
+> - The mouse guidance system and piston organisation.
+> - The propulsion system and extra (fling, etc).
+> - The blades and design.
+
 
 ** **
 
@@ -17,4 +23,4 @@ Last updated: 25.mar.2026
 ** **
 
 
-## __How do i get help?__
+## __How do i get help / work on shredders together?__
